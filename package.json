@@ -1,0 +1,29 @@
+{
+  "name": "fsk-font-loader",
+  "version": "1.0.0",
+  "description": "fsk-font-loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrxubo/fsk-font-loader.git"
+  },
+  "keywords": [
+    "font",
+    "fsk-font",
+    "loader",
+    "font-loader"
+  ],
+  "author": "xubo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vrxubo/fsk-font-loader/issues"
+  },
+  "homepage": "https://github.com/vrxubo/fsk-font-loader#readme",
+  "dependencies": {
+    "fsk-font-webpack": "0.0.1",
+    "loader-utils": "^0.2.16"
+  }
+}
